@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I am passionate about **Cloud Computing**, **DevOp
 ## [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,git,github,kubernetes,linux,py,terraform,mysql)](https://skillicons.dev)
 
 ## 📫Contacs
-- ✉️ Email: samuele.parrotta2003@libero.it
 - 💼 LinkedIn: www.linkedin.com/in/samuele-maria-parrotta-a2132234b
 - 🌐 GitHub: https://github.com/samulel-cloud
 
